@@ -13,4 +13,4 @@ Small Python projects designed to practice fundamental coding concepts of Python
 
 **4.Module:** the random module provides functions for generating random numbers or random choice. Here,random.randint() and random.choice() for generating random dice rolls and computer moves. 
 
-**5.Error Handling:** Gracefully handling invalid inputs (e.g., using try/except)
+**5.Error Handling:** Gracefully handling invalid inputs (e.g., using try/except).
